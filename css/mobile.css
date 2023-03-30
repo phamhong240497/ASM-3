@@ -1,0 +1,19 @@
+@media screen and (max-width: 767px) {
+    #nav-bar {display: block;padding-top: 20px;}
+    nav.container, nav a{display: block; border: none !important; text-align: left;}
+    nav a:last-child {border: none;}
+    .title {
+        top: 10%;
+    }
+    section .cc1 {
+        border-right:none!important;
+        border-bottom: 1px solid rgb(172, 169, 169);
+    }
+    section .cc3 {
+        border-top: none!important;
+    }
+    
+    section .FOOTER {
+        display: none;
+    }
+}
